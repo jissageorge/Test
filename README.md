@@ -72,3 +72,21 @@ Contains of toggle
 
 # Callouts
 > :Bulb: **tips:** Here is an important tip
+
+
+This is an example\
+and you can
+> text is not a quote\
+user `git status` to \
+`#ffffff`\
+1. first line item
+- second line item
+  - third line item
+    - third line item
+
+- [x] #739
+Here is a simple footnote[^1].\
+a foot note can [^2].\
+[^1]: my referance\
+[^2]:a foot note
+

@@ -89,5 +89,9 @@ user `git status` to \
 Here is a simple footnote[^1].\
 a foot note can [^2].\
 [^1]: my referance\
-[^2]:a foot note
-
+[^2]:a foot note\
+[!Note]\
+[!tip]\
+[!important]\
+[!warning]\
+[!caution]
